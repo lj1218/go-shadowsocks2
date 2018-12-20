@@ -1,0 +1,7 @@
+name=go_shadowsocks2
+cipher=AEAD_CHACHA20_POLY1305
+password=password
+port=8488
+
+REPOSITORY=shadowsocks/go-shadowsocks2
+TAG=v0.0.11
